@@ -1,0 +1,35 @@
+[
+    {
+        "category": "Geografía",
+        "question": "¿Cuál es la capital de Francia?",
+        "options": [
+            "Madrid",
+            "Roma",
+            "París",
+            "Lisboa"
+        ],
+        "answer": "París"
+    },
+    {
+        "category": "Historia",
+        "question": "¿En qué año llegó el hombre a la luna?",
+        "options": [
+            "1965",
+            "1969",
+            "1971",
+            "1959"
+        ],
+        "answer": "1969"
+    },
+    {
+        "category": "Ciencia",
+        "question": "¿Cuál es el elemento químico del símbolo 'O'?",
+        "options": [
+            "Oro",
+            "Oxígeno",
+            "Osmio",
+            "Oxalato"
+        ],
+        "answer": "Oxígeno"
+    }
+]
